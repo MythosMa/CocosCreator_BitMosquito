@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ce871e0a-6565-4927-ba57-d4747585459d",
+  "atlasJson": "{\"imagePath\":\"SprayUse_tex.png\",\"width\":512,\"name\":\"SprayUse\",\"SubTexture\":[{\"frameWidth\":439,\"y\":449,\"frameHeight\":430,\"height\":367,\"frameX\":-43,\"width\":377,\"name\":\"1-14\",\"frameY\":-39,\"x\":1},{\"frameWidth\":523,\"y\":1,\"frameHeight\":502,\"height\":446,\"frameX\":-46,\"width\":454,\"name\":\"1-15\",\"frameY\":-32,\"x\":1}],\"height\":1024}",
+  "texture": "4cc182bf-5c34-4ee4-bec3-0f498676c8ac",
+  "subMetas": {}
+}
